@@ -58,7 +58,7 @@
 |6|[0014](https://leetcode.com/problems/longest-common-prefix/) |Longest Common Prefix|EASY|❌|❌|❌|
 |7|[0020](https://leetcode.com/problems/valid-parentheses/description/) |Valid Parenthesis|EASY|❌|❌|❌|
 |8|[0042](https://leetcode.com/problems/trapping-rain-water/) |Trapping Rain Water|HARD|❌|❌|❌|
-|9|[0456](https://leetcode.com/problems/132-pattern/) |132 Pattern|MEDIUM|❌|❌||❌
+|9|[0456](https://leetcode.com/problems/132-pattern/) |132 Pattern|MEDIUM|❌|❌|❌|
 |10|[0020](https://leetcode.com/problems/generate-parentheses/) |Generate Parentheses|MEDIUM|❌|❌|❌|
 |11|[0052](https://leetcode.com/problems/n-queens-ii/) |N-Queens II|HARD|❌|❌|❌|
 |12|[0282](https://leetcode.com/problems/expression-add-operators/) |Expression Add Operators|HARD|❌|❌|❌|
