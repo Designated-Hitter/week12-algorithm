@@ -53,12 +53,12 @@
 |1|[0001](https://leetcode.com/problems/two-sum/) |Two Sum|EASY|✅|❌|❌|
 |2|[0015](https://leetcode.com/problems/3sum/) |3 Sum|MEDIUM|❌|❌|❌|
 |3|[0009](https://leetcode.com/problems/palindrome-number/) |Palindrome Number|EASY|✅|❌|❌|
-|4|[0007](https://leetcode.com/problems/reverse-integer/) |Reverse Integer|MEDIUM|❌|❌|❌|
-|5|[0412](https://leetcode.com/problems/fizz-buzz/) |Fizz Buzz|EASY|❌|❌|❌|
-|6|[0014](https://leetcode.com/problems/longest-common-prefix/) |Longest Common Prefix|EASY|❌|❌|❌|
-|7|[0020](https://leetcode.com/problems/valid-parentheses/description/) |Valid Parenthesis|EASY|❌|❌|❌|
-|8|[0042](https://leetcode.com/problems/trapping-rain-water/) |Trapping Rain Water|HARD|❌|❌|❌|
-|9|[0456](https://leetcode.com/problems/132-pattern/) |132 Pattern|MEDIUM|❌|❌|❌|
+|4|[0007](https://leetcode.com/problems/reverse-integer/) |Reverse Integer|MEDIUM|✅|❌|❌|
+|5|[0412](https://leetcode.com/problems/fizz-buzz/) |Fizz Buzz|EASY|✅|❌|❌|
+|6|[0014](https://leetcode.com/problems/longest-common-prefix/) |Longest Common Prefix|EASY|✅|❌|❌|
+|7|[0020](https://leetcode.com/problems/valid-parentheses/description/) |Valid Parenthesis|EASY|⚠️|❌|❌|
+|8|[0042](https://leetcode.com/problems/trapping-rain-water/) |Trapping Rain Water|HARD|⚠️|❌|❌|
+|9|[0456](https://leetcode.com/problems/132-pattern/) |132 Pattern|MEDIUM|⚠️|❌|❌|
 |10|[0020](https://leetcode.com/problems/generate-parentheses/) |Generate Parentheses|MEDIUM|❌|❌|❌|
 |11|[0052](https://leetcode.com/problems/n-queens-ii/) |N-Queens II|HARD|❌|❌|❌|
 |12|[0282](https://leetcode.com/problems/expression-add-operators/) |Expression Add Operators|HARD|❌|❌|❌|
