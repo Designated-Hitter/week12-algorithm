@@ -51,7 +51,7 @@
 |No|문제번호|문제명|난이도|정동환|박동호|김기영
 |:-:|:-----:|-------|:-----:|:-----:|:-----:|:-----:|
 |1|[0001](https://leetcode.com/problems/two-sum/) |Two Sum|EASY|✅|❌|❌|
-|2|[0015](https://leetcode.com/problems/3sum/) |3 Sum|MEDIUM|❌|❌|❌|
+|2|[0015](https://leetcode.com/problems/3sum/) |3 Sum|MEDIUM|⚠️|❌|❌|
 |3|[0009](https://leetcode.com/problems/palindrome-number/) |Palindrome Number|EASY|✅|❌|❌|
 |4|[0007](https://leetcode.com/problems/reverse-integer/) |Reverse Integer|MEDIUM|✅|❌|❌|
 |5|[0412](https://leetcode.com/problems/fizz-buzz/) |Fizz Buzz|EASY|✅|❌|❌|
