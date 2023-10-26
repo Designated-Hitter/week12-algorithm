@@ -60,7 +60,7 @@
 |8|[0042](https://leetcode.com/problems/trapping-rain-water/) |Trapping Rain Water|HARD|⚠️|❌|❌|
 |9|[0456](https://leetcode.com/problems/132-pattern/) |132 Pattern|MEDIUM|⚠️|❌|❌|
 |10|[0020](https://leetcode.com/problems/generate-parentheses/) |Generate Parentheses|MEDIUM|⚠️|❌|❌|
-|11|[0052](https://leetcode.com/problems/n-queens-ii/) |N-Queens II|HARD|❌|❌|❌|
+|11|[0052](https://leetcode.com/problems/n-queens-ii/) |N-Queens II|HARD|⚠️|❌|❌|
 |12|[0282](https://leetcode.com/problems/expression-add-operators/) |Expression Add Operators|HARD|❌|❌|❌|
 |13|[0056](https://leetcode.com/problems/merge-intervals/) |Merge Intervals|MEDIUM|❌|❌|❌|
 |14|[0003](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |Longest Substring Without Repeating Characters|MEDIUM|❌|❌|❌|
