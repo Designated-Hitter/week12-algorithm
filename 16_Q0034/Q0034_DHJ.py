@@ -7,7 +7,5 @@ class Solution:
             b = nums.index(target)
             answer = [a, (len(nums) - 1) - b]
         except:
-            a = -1
-            answer = [-1, -1]
-
+           return answer
         return answer
