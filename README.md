@@ -67,7 +67,7 @@
 |15|[0560](https://leetcode.com/problems/subarray-sum-equals-k/) |Subarray Sum Equals K|MEDIUM|❌|❌|❌|
 |16|[0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |Find First and Last Position of Element in Sorted Array|MEDIUM|✅|❌|❌|
 |17|[0215](https://leetcode.com/problems/kth-largest-element-in-an-array/) |Kth Largest Element in an Array|MEDIUM|✅|❌|❌|
-|18|[0209](https://leetcode.com/problems/minimum-size-subarray-sum/) |Minimum Size Subarray Sum|MEDIUM|❌|❌|❌|
+|18|[0209](https://leetcode.com/problems/minimum-size-subarray-sum/) |Minimum Size Subarray Sum|MEDIUM|⚠️|❌|❌|
 |19|[0218](https://leetcode.com/problems/the-skyline-problem/description/) |The Skyline Problem|HARD|❌|❌|❌|
 |20|[0200](https://leetcode.com/problems/number-of-islands/) |Number of Islands|MEDIUM|❌|❌|❌|
 |21|[0399](https://leetcode.com/problems/evaluate-division/) |Evaluate Division|MEDIUM|❌|❌|❌|
