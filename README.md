@@ -76,7 +76,7 @@
 |24|[0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |Best Time to Buy and Sell Stock|EASY|⚠️|❌|❌|
 |25|[0070](https://leetcode.com/problems/climbing-stairs/) |Climbing Stairs|EASY|✅|❌|❌|
 |26|[0300](https://leetcode.com/problems/longest-increasing-subsequence/) |Longest Increasing Subsequence|MEDIUM|❌|❌|❌|
-|27|[0005](https://leetcode.com/problems/longest-palindromic-substring/) |Longest Palindromic Substring|MEDIUM|❌|❌|❌|
+|27|[0005](https://leetcode.com/problems/longest-palindromic-substring/) |Longest Palindromic Substring|MEDIUM|⚠️|❌|❌|
 |28|[0011](https://leetcode.com/problems/container-with-most-water/) |Container With Most Water|MEDIUM|✅|❌|❌|
 |29|[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |Maximum Profit in Job Scheduling|HARD|❌|❌|❌|
 |30|[0847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) |Shortest Path Visiting All Nodes|HARD|❌|❌|❌|
