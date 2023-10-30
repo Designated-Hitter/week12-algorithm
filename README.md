@@ -70,12 +70,12 @@
 |18|[0209](https://leetcode.com/problems/minimum-size-subarray-sum/) |Minimum Size Subarray Sum|MEDIUM|⚠️|❌|❌|
 |19|[0218](https://leetcode.com/problems/the-skyline-problem/description/) |The Skyline Problem|HARD|❌|❌|❌|
 |20|[0200](https://leetcode.com/problems/number-of-islands/) |Number of Islands|MEDIUM|❌|❌|❌|
-|21|[0399](https://leetcode.com/problems/evaluate-division/) |Evaluate Division|MEDIUM|❌|❌|❌|
+|21|[0399](https://leetcode.com/problems/evaluate-division/) |Evaluate Division|MEDIUM|⚠️|❌|❌|
 |22|[0207](https://leetcode.com/problems/course-schedule/) |Course Schedule|MEDIUM|❌|❌|❌|
 |23|[0486](https://leetcode.com/problems/predict-the-winner/) |Predict the Winner|MEDIUM|⚠️|❌|❌|
 |24|[0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |Best Time to Buy and Sell Stock|EASY|⚠️|❌|❌|
 |25|[0070](https://leetcode.com/problems/climbing-stairs/) |Climbing Stairs|EASY|✅|❌|❌|
-|26|[0300](https://leetcode.com/problems/longest-increasing-subsequence/) |Longest Increasing Subsequence|MEDIUM|❌|❌|❌|
+|26|[0300](https://leetcode.com/problems/longest-increasing-subsequence/) |Longest Increasing Subsequence|MEDIUM|⚠️|❌|❌|
 |27|[0005](https://leetcode.com/problems/longest-palindromic-substring/) |Longest Palindromic Substring|MEDIUM|⚠️|❌|❌|
 |28|[0011](https://leetcode.com/problems/container-with-most-water/) |Container With Most Water|MEDIUM|✅|❌|❌|
 |29|[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |Maximum Profit in Job Scheduling|HARD|❌|❌|❌|
