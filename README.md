@@ -69,7 +69,7 @@
 |17|[0215](https://leetcode.com/problems/kth-largest-element-in-an-array/) |Kth Largest Element in an Array|MEDIUM|✅|❌|❌|
 |18|[0209](https://leetcode.com/problems/minimum-size-subarray-sum/) |Minimum Size Subarray Sum|MEDIUM|⚠️|❌|❌|
 |19|[0218](https://leetcode.com/problems/the-skyline-problem/description/) |The Skyline Problem|HARD|❌|❌|❌|
-|20|[0200](https://leetcode.com/problems/number-of-islands/) |Number of Islands|MEDIUM|❌|❌|❌|
+|20|[0200](https://leetcode.com/problems/number-of-islands/) |Number of Islands|MEDIUM|⚠️|❌|❌|
 |21|[0399](https://leetcode.com/problems/evaluate-division/) |Evaluate Division|MEDIUM|⚠️|❌|❌|
 |22|[0207](https://leetcode.com/problems/course-schedule/) |Course Schedule|MEDIUM|⚠️|❌|❌|
 |23|[0486](https://leetcode.com/problems/predict-the-winner/) |Predict the Winner|MEDIUM|⚠️|❌|❌|
